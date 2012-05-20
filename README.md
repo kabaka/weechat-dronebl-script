@@ -14,6 +14,7 @@ that.
 
 # To-do
 
+* Move RPC key to a WeeChat setting.
 * Fix long blocking time.
 * Stick things in objects to simplify code.
 * Clean up hackish code.
